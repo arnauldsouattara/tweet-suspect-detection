@@ -1,1 +1,5 @@
 /tweets_clean.csv
+/X_train_tfidf.npz
+/X_test_tfidf.npz
+/y_train.csv
+/y_test.csv

@@ -1,0 +1,5 @@
+outs:
+- md5: d5ad2e6cfff59cb83c97a6e2a78766ff
+  size: 800009
+  hash: md5
+  path: X_test_tfidf.npz

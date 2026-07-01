@@ -1,0 +1,5 @@
+outs:
+- md5: 2a71ce6b5cab03e0365921309ab23282
+  size: 3297528
+  hash: md5
+  path: X_train_tfidf.npz
